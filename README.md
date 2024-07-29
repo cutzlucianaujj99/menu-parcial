@@ -1,2 +1,0 @@
-# menu-parcial
-sistio web
